@@ -5,8 +5,8 @@
   Portfolio Website Version 1
 </h1>
 <p align="center">
-  The first iteration of <a href="need to fill" 
-  target="_blank">A Akhil</a> portfolio built with 
+  The first iteration of <a href="need to fill"
+  target="_blank">A Akhil</a> portfolio built with
   <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
 </p>
 <!-- <p align="center">
@@ -17,10 +17,6 @@
 <div align="center">
   <img alt="Demo" src="source/src/images/demo.png" />
 </div>
-
-### TL;DR
-
-Yes, you can fork this repo. Please give proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
 
 ## 🛠 Installation & Set Up
 

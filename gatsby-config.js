@@ -5,7 +5,7 @@ module.exports = {
     title: 'A Akhil',
     description:
       "Hi, I'm A Akhil, a passionate machine learning engineer skilled in developing and deploying models, eager to solve real-world problems with data and algorithms.",
-    siteUrl: 'need to fill', // No trailing slash allowed!
+    siteUrl: 'https://github.com/AkhilAndroid/AkhilAndroid.github.io/', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@AkhilAndroid',
   },

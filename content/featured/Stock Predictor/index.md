@@ -11,4 +11,4 @@ tech:
   - Tensorflow
 ---
 
-I developed a stock predictor utilizing LSTM for sequence prediction and Django for web application deployment. By integrating these technologies, I aimed to provide accurate stock price forecasting through a user-friendly web application interface.
+I developed and implemented a stock predictor web application which provides accurate real time stock price forecasting. This is a user-friendly web application interface that utilizes the LSTM algorithm for sequence prediction.

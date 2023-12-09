@@ -5,7 +5,7 @@
   "author": "A Akhil <akhilarul324@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://akhilandroid.github.io/Personal-Website"
+    "url": "https://akhilandroid.github.io/Personal-Website/"
   },
   "keywords": [
     "gatsby"
@@ -18,8 +18,8 @@
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "deploy": "gatsby build && gh-pages -d public -b gh-pages"
-  },
+    "deploy": "gatsby build && gh-pages -d public"
+  },  
   "husky": {
     "hooks": {
       "pre-commit": "lint-staged"
@@ -35,7 +35,7 @@
   },
   "dependencies": {
     "animejs": "^3.1.0",
-    "babel-plugin-styled-components": "^1.12.0",
+    "babel-plugin-styled-components": "^1.13.3",
     "date-fns": "^2.30.0",
     "gatsby": "^3.4.1",
     "gatsby-plugin-google-analytics": "^3.4.0",
@@ -47,7 +47,7 @@
     "gatsby-plugin-robots-txt": "^1.5.6",
     "gatsby-plugin-sharp": "^3.4.1",
     "gatsby-plugin-sitemap": "^4.0.0",
-    "gatsby-plugin-styled-components": "^4.4.0",
+    "gatsby-plugin-styled-components": "^4.15.0",
     "gatsby-remark-external-links": "0.0.4",
     "gatsby-remark-images": "^5.1.0",
     "gatsby-remark-prismjs": "^5.1.0",
@@ -55,7 +55,7 @@
     "gatsby-transformer-remark": "^4.1.0",
     "gatsby-transformer-sharp": "^3.4.0",
     "graphql": "^15.8.0",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "prismjs": "^1.27.0",
     "prop-types": "^15.7.2",
     "react": "^17.0.2",
@@ -63,7 +63,7 @@
     "react-helmet": "^6.1.0",
     "react-transition-group": "^4.3.0",
     "scrollreveal": "^4.0.5",
-    "styled-components": "^5.3.0"
+    "styled-components": "^5.3.11"
   },
   "devDependencies": {
     "@babel/core": "^7.14.0",

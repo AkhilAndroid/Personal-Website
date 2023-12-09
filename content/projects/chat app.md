@@ -11,4 +11,4 @@ tech:
 showInProjects: true
 ---
 
-Develop a stock predictor using LSTM for sequence prediction and Django for web application deployment, integrating both technologies for accurate stock price forecasting and user-friendly access.
+Developed a Java-based Android app using Gradle and Android Studio, incorporating Firebase for real-time data synchronization, authentication, and cloud-based storage.

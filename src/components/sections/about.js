@@ -135,17 +135,33 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-            Hello! I'm Akhil, a computer science student with a passion for coding and a particular focus on the fascinating world of machine learning. Currently enrolled at SRM Institute of Science and Technology, I thrive on creative challenges, especially in the domains of deep learning and computer vision.
+            Hello! I'm Akhil, a computer science student with a passion for coding with a particular focus of the fascinating world of machine learning. 
+            I am currently enrolled at SRM Institute of Science and Technology, 
+            pursuing B.Tech in Computer Science and Engineering with Specialization in Artificial Intelligence and Machine Learning.
+  </p><p>
+  I thrive on undertaking the most complex tasks and executing successfully, particularly in the domains of deep learning and computer vision. 
+  Testimant to this, is my recent achievement in securing the first place in the Smart Campus Hackathon. I was a team leader of a team that has won the hackathon challange.
+  My team was selected as one of the top 30 winning teams out of the 400 teams that participanted in this Smart India Hackathon. 
+  </p> <p>
+  In addition to my successful participation in various hackathons, I became the coordinator of a hackathon. I achieved this through 
+  organizing multiple events that bring together enthusiastic minds to tackle complex problems. 
+  This dual experience, both as a participant and a coordinator, has allowed me to contribute significantly to the tech community. 
+  </p>
+  {/* <p>
+My work promises substantial enhancements to real-world traffic sign recognition through employing advanced techniques and extensive experimentation. 
+In my journey in technology, I have made significant contributions to the field of small object detection. A recent research paper reflects my exploration 
+of innovative methodologies tailored to traffic signs as a dataset. This endeavor is poised to not only advance the understanding of small object detection 
+but also to significantly improve safety and performance in practical applications of traffic sign recognition
 </p>
-<p>
-My journey in technology has led me to contribute significantly to the field of small object detection. In a recent research paper, I explored innovative methodologies specifically targeting traffic signs as a dataset. By employing advanced techniques and extensive experimentation, my work promises substantial enhancements to real-world traffic sign recognition, ultimately improving safety and performance in practical applications.
-</p>
-Beyond this, my tech endeavors span diverse projects, including the dynamic realm of parking detection using computer vision and the intricacies of comparative regression models. Each project serves as a stepping stone in my continuous exploration of the vast possibilities within the tech landscape.
+<p>My tech endeavors span diverse projects, delving into the dynamic realm of parking detection using computer vision and 
+exploring the intricacies of comparative regression models. Each project serves as a stepping stone in my continuous exploration 
+of the vast possibilities within the tech landscape.
+</p> */}
 <p>
 Eager to connect with like-minded enthusiasts, I'm open to discussions, collaborations, or simply sharing tech adventures. Feel free to reach out, and let's explore the exciting world of technology together!
             </p>
 
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            <p>I have experience in this following technologies:</p>
           </div>
 
           <ul className="skills-list">

@@ -11,4 +11,4 @@ tech:
   - Tensorflow
 ---
 
-This system uses the YOLOv5 object detection algorithm to detect and count the number of cars parked in a parking lot. It can be used in various scenarios such as automated parking management systems, parking lot occupancy detection, etc.
+I created a Parking Lot Detection System that employs the YOLOv5 object detection algorithm to identify and count parked cars in a parking lot. This versatile system finds applications in automated parking management and parking lot occupancy detection.

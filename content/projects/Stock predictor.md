@@ -10,4 +10,4 @@ tech:
 showInProjects: true
 ---
 
-Develop a stock predictor using LSTM for sequence prediction and Django for web application deployment, integrating both technologies for accurate stock price forecasting and user-friendly access.
+I developed a stock predictor utilizing LSTM for sequence prediction and Django for web application deployment. By integrating these technologies, I aimed to provide accurate stock price forecasting through a user-friendly web application interface.

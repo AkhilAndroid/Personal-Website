@@ -11,4 +11,4 @@ tech:
   - Torch
 ---
 
-Crime Detection using Machine Learning and web3 is a project that aims to detect criminal activities in video footage using machine learning techniques and store the information in a database using django and web3 as auth.
+Crime Detection with Machine Learning and Web3 is my project that utilizes ML for detecting criminal activities in video footage. The system integrates Django for database management and Web3 for authentication, ensuring a robust and secure information storage solution.

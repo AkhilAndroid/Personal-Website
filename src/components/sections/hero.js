@@ -60,16 +60,16 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">A Akhil.</h2>;
+  const two = <h2 className="big-heading">A Akhil</h2>;
   const three = <h3 className="big-heading">I am a machine learning engineer who builds things that matter.</h3>;
   const four = (
     <>
       <p>
          I'm a machine learning engineer passionate about using 
-         data and algorithms to solve real-world problems. 
-         I'm skilled in developing and deploying machine learning models, 
-         and I have a strong understanding of machine learning principles. 
-         I'm also experienced in working with data and code, and I'm always eager to learn new things.
+         data and algorithms to solve the real-world problems. 
+         I'm skilled in developing and deploying machine learning models. 
+         I have a strong understanding of machine learning principles and have
+         siginificant experience in developing complex programs. I'm always willing to learn new things and try to come up with innovative ideas.
       </p>
     </>
   );
